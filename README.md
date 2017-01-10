@@ -1,2 +1,2 @@
 # test
-My first project for git
+My first project in GitHub
